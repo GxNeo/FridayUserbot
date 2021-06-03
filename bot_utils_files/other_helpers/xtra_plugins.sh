@@ -6,7 +6,7 @@
 #
 # All rights reserved.
 
-PLUGIN_REPO="https://github.com/DevsExpo/Xtra-Plugins.git"
+PLUGIN_REPO="https://github.com/Ns-AnoNymouS/Xtra-Plugins.git"
 xtra_fold="./xtraplugins"
 req_file="./xtraplugins/req.txt"
 
